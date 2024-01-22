@@ -9,10 +9,10 @@ Tropical moist forests do not include
 
 ### Question 2:
 Which of these is not a use value?
-- [x] a) Direct value
+- [ ] a) Direct value
 - [ ] b) Indirect value
 - [ ] c) Option value
-- [ ] d) Existence value
+- [x] d) Existence value
 
 ### Question 3:
 The value derived from the knowledge of the use of resources by others in the current generation is called
@@ -58,10 +58,10 @@ The value of leaving use and non-use values for offspring's or future generation
 
 ### Question 9:
 Which of these is not a forest type found in India?
-- [ ] a) Mediterranean dry
+- [x] a) Mediterranean dry
 - [ ] b) Tropical dry
 - [ ] c) Montane temperate
-- [x] d) Alpine
+- [ ] d) Alpine
 
 ### Question 10:
 According to the supreme court, the term forest land includes
