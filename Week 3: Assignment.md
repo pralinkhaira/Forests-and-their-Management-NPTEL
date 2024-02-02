@@ -24,8 +24,8 @@ Banger is a type of
 ### Question 4:
 Cryofracturing is an example of
 - [ ] a) Chemical weathering
-- [ ] b) Physical weathering
-- [x] c) Biological weathering
+- [x] b) Physical weathering
+- [ ] c) Biological weathering
 - [ ] d) None of these
 
 ### Question 5:
