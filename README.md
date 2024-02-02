@@ -11,7 +11,7 @@ Welcome to the NPTEL course on Forests and their Management! This repository con
   - [Access Assignment](link_to_assignment_2)
 
 - **Week 3: Forest Soils**
-  - [Access Assignment](link_to_assignment_3)
+  - [Access Assignment](https://github.com/pralinkhaira/forests-and-their-management-nptel/blob/main/Week%203%3A%20Assignment.md)
 
 - **Week 4: Forest Mensuration**
   - [Access Assignment](link_to_assignment_4)
