@@ -8,7 +8,7 @@ Welcome to the NPTEL course on Forests and their Management! This repository con
   - [Access Assignment Solution](https://github.com/pralinkhaira/forests-and-their-management-nptel/blob/main/Week%201%3A%20Assignment%201.md)
 
 - **Week 2: Basics of Silviculture**
-  - [Access Assignment](link_to_assignment_2)
+  - [Access Assignment](https://github.com/pralinkhaira/forests-and-their-management-nptel/blob/main/Week%202%3A%20Assignment.md)
 
 - **Week 3: Forest Soils**
   - [Access Assignment](https://github.com/pralinkhaira/forests-and-their-management-nptel/blob/main/Week%203%3A%20Assignment.md)
