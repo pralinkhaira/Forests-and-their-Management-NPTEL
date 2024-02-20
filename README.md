@@ -14,7 +14,7 @@ Welcome to the NPTEL course on Forests and their Management! This repository con
   - [Access Assignment](https://github.com/pralinkhaira/forests-and-their-management-nptel/blob/main/Week%203%3A%20Assignment.md)
 
 - **Week 4: Forest Mensuration**
-  - [Access Assignment](https://github.com/pralinkhaira/forests-and-their-management-nptel/blob/main/Week%204%3A%20Assignment%204.md)
+  - [Access Assignment](https://github.com/pralinkhaira/forests-and-their-management-nptel/blob/main/Week%204%3A%20Assignment.md)
 
 - **Week 5: Forest Surveying**
   - [Access Assignment](link_to_assignment_5)
